@@ -6,3 +6,4 @@ Inventory of all my retro games titles collection
 
 ## Super Nintendo
 - The Legend of Zelda Link to the Past
+- Donkey Kong Country.
